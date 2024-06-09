@@ -4,7 +4,7 @@ My name is Jonas and I am a Front-End developer, currently honing my skills at @
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jnettli&hide=stars,contribs&show_icons=true&rank_icon=github&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jnettli&hide=stars,contribs&show_icons=true&hide_rank=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jnettli&card_width=320&theme=dark" />
