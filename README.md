@@ -21,7 +21,7 @@ My name is Jonas and I am a Front-End developer, currently honing my skills at @
 
 - [Portfolio Website](https://github.com/JNettli/portfolio)
 - [Zork Remake](https://github.com/JNettli/zork-remake)
-- [Project Exam, First Semester](https://github.com/JNettli/011-project-exam-1)
+- [BizBlitz, Auction website](https://github.com/JNettli/011-semesterproject2)
 
 ---
 
