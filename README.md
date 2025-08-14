@@ -37,7 +37,7 @@ My name is Jonas and I am a Front-End developer, with a higher professional degr
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=JNettli&icon=0&color=6)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jnettli&label=Profile%20views&color=0e75b6&style=flat" alt="jnettli" /> </p>
 
 ---
 
